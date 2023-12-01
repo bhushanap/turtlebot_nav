@@ -5,8 +5,6 @@ This repo is a collection of projects from AE7785, the semester-long course of I
 
 <img src="https://github.com/bhushanap/turtlebot_nav/assets/83635464/51266125-9c3d-4a31-96a1-f1665766e881" alt="drawing" width="200"/>
 
-<img src="https://github.com/bhushanap/turtlebot_nav/assets/83635464/51266125-9c3d-4a31-96a1-f1665766e881" alt="turtlebot3" height="200"/>
-
 
 ## Labs Overview 🚀
 
