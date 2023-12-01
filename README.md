@@ -3,6 +3,9 @@
 
 This repo is a collection of projects from AE7785, the semester-long course of Intro to Robotics at Georgia Tech! In this course, we had to do labs on turtlebot, learning and implementing key concepts through hands-on labs and projects. Throughout the semester, we used Python to write code and ROS (Robot Operating System) build system files to build robotic functionalities from scratch.
 
+![turtlebot3](https://github.com/bhushanap/turtlebot_nav/assets/83635464/51266125-9c3d-4a31-96a1-f1665766e881)
+
+
 ## Labs Overview 🚀
 
 ### Lab 1: Object Detection with Camera
@@ -26,6 +29,10 @@ This repo is a collection of projects from AE7785, the semester-long course of I
     Skills Developed: Path planning, obstacle avoidance, waypoint navigation.
 
 ### Lab 5: Mapping and Navigation
+
+![2d_nav_goal](https://github.com/bhushanap/turtlebot_nav/assets/83635464/9c59e29e-4a08-4aa7-9a7d-bd3dd8e1b7c9)
+![2d_nav_goal-1](https://github.com/bhushanap/turtlebot_nav/assets/83635464/e12452a3-1428-4e91-b1c3-544dbe9484ea)
+
 
     Objective: Generate a map using LiDAR and navigate through it using Nav2 Pure Pursuit and DWA controllers.
     Skills Developed: LiDAR data processing, map generation, advanced navigation techniques.
