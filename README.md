@@ -3,7 +3,7 @@
 
 This repo is a collection of projects from AE7785, the semester-long course of Intro to Robotics at Georgia Tech! In this course, we had to do labs on turtlebot, learning and implementing key concepts through hands-on labs and projects. Throughout the semester, we used Python to write code and ROS (Robot Operating System) build system files to build robotic functionalities from scratch.
 
-<img src="https://github.com/bhushanap/turtlebot_nav/assets/83635464/51266125-9c3d-4a31-96a1-f1665766e881" alt="turtlebot3" height="200";">
+<img src="https://github.com/bhushanap/turtlebot_nav/assets/83635464/51266125-9c3d-4a31-96a1-f1665766e881" alt="turtlebot3" height="200"">
 
 
 ## Labs Overview 🚀
