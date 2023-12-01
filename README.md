@@ -32,6 +32,9 @@ This repo is a collection of projects from AE7785, the semester-long course of I
 
 ### Lab 6: Maze Navigation with CNN
 
+![image](https://github.com/bhushanap/turtlebot_nav/assets/83635464/d424f34d-a663-45b3-a3d0-0321bff51419)
+
+
     Objective: Navigate a maze by integrating a Convolutional Neural Network (CNN) to classify images and dictate robot actions.
     Skills Developed: Machine learning integration, image classification, maze solving.
 
